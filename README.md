@@ -1,2 +1,2 @@
 # jsc
-javaScript compiler compiles .js into .elf
+template javaScript compiler compiles .js into .elf
