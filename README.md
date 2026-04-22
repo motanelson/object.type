@@ -19,6 +19,14 @@ https://www.raspberrypi.com/products/m2-hat-plus/
 
 
 
+https://github.com/hailo-ai/hailo-apps
+
+
+
+
+
+
+
 
 
 
